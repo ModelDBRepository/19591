@@ -38,3 +38,7 @@ of NMDA receptors in temporal summation of excitatory synaptic
 potentials and GABAA receptors role in coincidence detection; Golgi
 cell inhibition on mossy fiber to granule cell transmission and more...
 
+Changelog
+---------
+2022-12: nacaexch.mod: drop INDEPENDENT block for v
+         Required for upcoming NEURON 9.0.0
