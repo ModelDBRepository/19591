@@ -6,7 +6,6 @@ COMMENT
 The non specific current eliminates the electrical effect of the calcium current. To obtain the 
 electrogenic Na/Ca exchanger, the non specific current should be multiplied by 3/2.
 ENDCOMMENT
-INDEPENDENT {v FROM -100 TO 50 WITH 50 (mV)}
 
 UNITS {
 	(mM) = (milli/liter)
@@ -54,6 +53,7 @@ ASSIGNED {
         iexch   (mA/cm2)
 	ica	(mA/cm2)
 	i	(mA/cm2)
+	v 	(mV)
 }
 
 UNITSOFF
