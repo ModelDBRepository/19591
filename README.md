@@ -40,10 +40,8 @@ cell inhibition on mossy fiber to granule cell transmission and more...
 
 ---
 
-Changelog
-2022-12: nacaexch.mod: drop INDEPENDENT block for v
-      Required for upcoming NEURON 9.0.0
-
----
-
-2025-05-27 – Standardized to Markdown
+## Changelog
+2022-12: nacaexch.mod: drop INDEPENDENT block for v  
+    Required for upcoming NEURON 9.0.0
+      
+2025-05-27: Standardized to Markdown
